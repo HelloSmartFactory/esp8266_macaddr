@@ -1,0 +1,2 @@
+# esp8266_macaddr
+ esp8266/WioNodeのmacAddressをシリアルモニタに表示する
